@@ -11,7 +11,7 @@
     <de.hdodenhof.circleimageview.CircleImageView
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:src="@drawable/megy"/>
+        android:src="@drawable/rofi"/>
 
     <TextView
         android:layout_width="match_parent"
@@ -19,14 +19,14 @@
         android:id="@+id/user_name"
         android:paddingTop="8dp"
         android:textSize="20dp"
-        android:text="Megy Permana"
+        android:text="M. Rofii Harahap"
         android:textColor="@color/black"
         android:textStyle="bold"/>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="16dp"
-        android:text="speedup@gmail.com"/>
+        android:text="ropiiharahap16kopin@gmail.com"/>
     <View
         android:layout_width="match_parent"
         android:layout_height="1dp"
